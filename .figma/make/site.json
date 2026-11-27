@@ -1,0 +1,10 @@
+{
+  "description": "A real estate marketplace that helps property owners and seekers discover, list, and connect over homes directly, making property search simpler and more affordable.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
